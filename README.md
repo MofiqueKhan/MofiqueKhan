@@ -26,6 +26,5 @@ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuld
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MofiqueKhan&show_icons=true&locale=en&layout=compact" alt="MofiqueKhan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MofiqueKhan&show_icons=true&locale=en" alt="MofiqueKhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MofiqueKhan&" alt="MofiqueKhan" /></p>
